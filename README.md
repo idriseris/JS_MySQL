@@ -1,5 +1,6 @@
 # JS_MySQL
 Javascript ile kolay MySQL veritabanı kontrol eder
+Uyarı: Web sitesi için değildir.
 <br /><br />
 ## Örnek
 ### Bir satırdan veri alır
